@@ -33,6 +33,7 @@ A Streamlit-based application that leverages Nx Meta and AI-powered models for r
 Install dependencies:
 
 pip install -r requirements.txt
+
 Run the application:
 
 streamlit run app.py
